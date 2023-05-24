@@ -1,0 +1,23 @@
+.formControl {
+  margin: 2rem auto;
+  padding: 2rem 1rem;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.formControl label {
+  display: block;
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+
+.formControl input {
+  width: 100%;
+  border: 1px solid #ccc;
+  margin-bottom: 0.5rem;
+}
+
+.formControl input:focus {
+  outline: none;
+  border-color: #4f005f;
+}
